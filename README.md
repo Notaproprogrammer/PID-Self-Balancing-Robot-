@@ -10,7 +10,7 @@ wiring:
 From motor driver: ENA - GP21, ENB- GP20, IN1- GP6, IN2-GP7, IN3-GP8, IN4-GP9
 From MPU-9265: 
 SCL-GP5, SDA-GP4
-VCC - VSYS (3.3V) 
+VCC - 3v3 (3.3 V)  
 GND - GND 
 
 
